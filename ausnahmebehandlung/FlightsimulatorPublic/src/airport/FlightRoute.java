@@ -14,7 +14,7 @@ public class FlightRoute {
 	 */
 	public FlightRoute(int flightLength, int minHeight, int maxHeight) throws InvalidFlightPlanException {
 	}
-
+	
 	public int getFlightLength() {
 	}
 	
