@@ -1,0 +1,5 @@
+Datei zum Test für Cesar-Verschlüsslung.
+Es werden nur die "normalen" Buchstaben verschlüsselt. Spezielle Buchstaben des deutschen
+Alphabets (ä, Ä, ö, Ö, ü, Ü und ß) werden nicht verschlüsselt.
+Besonders zu beachten ist, ob z und Z wirklich im Kreis wandern und bei der
+Entschlüsselung a bzw. A. 
